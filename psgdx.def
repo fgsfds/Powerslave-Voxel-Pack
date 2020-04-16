@@ -24,11 +24,16 @@ voxel "KVX/3507_MANA_F.kvx" { tile 3507 rotate }
 voxel "KVX/0488_REVOLVER.kvx" { tile 0488 rotate }
 voxel "KVX/0490_MG.kvx" { tile 0490 rotate }
 voxel "KVX/0491_FLAMETHRWR.kvx" { tile 0491 rotate }
+voxel "KVX/0754_MASK.kvx" { tile 0754 rotate }
+voxel "KVX/0877_SPEEDLOADER.kvx" { tile 0877 rotate }
 voxel "KVX/0878_GRENADE.kvx" { tile 0878 rotate }
+voxel "KVX/0881_BELT1.kvx" { tile 0881 }
+voxel "KVX/0882_BELT2.kvx" { tile 0882 }
 voxel "KVX/0899_STAFF_A.kvx" { tile 0899 rotate }
 voxel "KVX/0900_STAFF_B.kvx" { tile 0900 rotate }
 voxel "KVX/0901_STAFF_C.kvx" { tile 0901 rotate }
 voxel "KVX/3455_BRACELET.kvx" { tile 3455 rotate }
+voxel "KVX/3457_COBRA.kvx" { tile 3457 rotate }
 
 voxel "KVX/0744_TORCH_A.kvx" { tile 0744 rotate }
 voxel "KVX/0745_TORCH_B.kvx" { tile 0745 rotate }
@@ -38,8 +43,3 @@ voxel "KVX/0748_TORCH_E.kvx" { tile 0748 rotate }
 voxel "KVX/0749_TORCH_F.kvx" { tile 0749 rotate }
 voxel "KVX/0750_TORCH_G.kvx" { tile 0750 rotate }
 voxel "KVX/0751_TORCH_H.kvx" { tile 0751 rotate }
-
-voxel "KVX/3457_COBRA.kvx" { tile 3457 rotate }
-
-voxel "KVX/0881_BELT1.kvx" { tile 0881 }
-voxel "KVX/0882_BELT2.kvx" { tile 0882 }
