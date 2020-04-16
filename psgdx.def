@@ -40,3 +40,6 @@ voxel "KVX/0750_TORCH_G.kvx" { tile 0750 rotate }
 voxel "KVX/0751_TORCH_H.kvx" { tile 0751 rotate }
 
 voxel "KVX/3457_COBRA.kvx" { tile 3457 rotate }
+
+voxel "KVX/0881_BELT1.kvx" { tile 0881 }
+voxel "KVX/0882_BELT2.kvx" { tile 0882 }
