@@ -7,12 +7,18 @@ voxel "KVX/0329_HEALTH_D.kvx" { tile 329 rotate }
 voxel "KVX/0330_HEALTH_E.kvx" { tile 330 rotate }
 voxel "KVX/0331_HEALTH_F.kvx" { tile 331 rotate }
 
-voxel "KVX/332_POISON_A.kvx" { tile 332 rotate }
-voxel "KVX/333_POISON_B.kvx" { tile 333 rotate }
-voxel "KVX/334_POISON_C.kvx" { tile 334 rotate }
-voxel "KVX/335_POISON_D.kvx" { tile 335 rotate }
-voxel "KVX/336_POISON_E.kvx" { tile 336 rotate }
-voxel "KVX/337_POISON_F.kvx" { tile 337 rotate }
+voxel "KVX/0332_POISON_A.kvx" { tile 332 rotate }
+voxel "KVX/0333_POISON_B.kvx" { tile 333 rotate }
+voxel "KVX/0334_POISON_C.kvx" { tile 334 rotate }
+voxel "KVX/0335_POISON_D.kvx" { tile 335 rotate }
+voxel "KVX/0336_POISON_E.kvx" { tile 336 rotate }
+voxel "KVX/0337_POISON_F.kvx" { tile 337 rotate }
+
+voxel "KVX/0726_EYE_A.kvx" { tile 0726 rotate }
+voxel "KVX/0732_EYE_B.kvx" { tile 0732 rotate }
+voxel "KVX/0733_EYE_C.kvx" { tile 0733 rotate }
+voxel "KVX/0734_EYE_D.kvx" { tile 0734 rotate }
+voxel "KVX/0735_EYE_E.kvx" { tile 0735 rotate }
 
 voxel "KVX/3502_MANA_A.kvx" { tile 3502 rotate }
 voxel "KVX/3503_MANA_B.kvx" { tile 3503 rotate }
