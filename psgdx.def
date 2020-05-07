@@ -49,3 +49,5 @@ voxel "KVX/0748_TORCH_E.kvx" { tile 0748 rotate }
 voxel "KVX/0749_TORCH_F.kvx" { tile 0749 rotate }
 voxel "KVX/0750_TORCH_G.kvx" { tile 0750 rotate }
 voxel "KVX/0751_TORCH_H.kvx" { tile 0751 rotate }
+
+voxel "KVX/0736_SCARAB_A.kvx" { tile 0736 rotate }
