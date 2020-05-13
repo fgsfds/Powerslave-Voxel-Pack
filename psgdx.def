@@ -51,3 +51,12 @@ voxel "KVX/0750_TORCH_G.kvx" { tile 0750 rotate }
 voxel "KVX/0751_TORCH_H.kvx" { tile 0751 rotate }
 
 voxel "KVX/0736_SCARAB_A.kvx" { tile 0736 rotate }
+
+voxel "KVX/3516_EYE.kvx" { tile 3516 rotate }
+voxel "KVX/3516_EYE.kvx" { tile 3517 rotate }
+voxel "KVX/3516_EYE.kvx" { tile 3518 rotate }
+voxel "KVX/3516_EYE.kvx" { tile 3519 rotate }
+voxel "KVX/3516_EYE.kvx" { tile 3520 rotate }
+
+voxel "KVX/0718_PLANT_A.kvx" { tile 0718 }
+voxel "KVX/0719_PLANT_B.kvx" { tile 0719 }
