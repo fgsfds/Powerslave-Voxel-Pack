@@ -4,7 +4,7 @@ Powerslave/Exhumed Voxel Pack
 
 Version:       0.1
 Release Date:  00.00.0000
-Author:        Oleg "FGSFDS" G.
+Author:        Oleg "fgsfds" G.
 
 
 ============================================================================================
@@ -12,14 +12,16 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Powerslave/Exhumed.
-It is meant to be used with the BuildGDX and PCExhumed ports.
+It is meant to be used with BuildGDX and PCExhumed ports.
 
 
 ============================================================================================
 HOW TO USE
 ============================================================================================
 
-Drop voxels.zip into "autoload" folder.
+BuildGDX (1.09 or later) and NBlood (r11419 or later):
+- put psvoxels.zip into autoload folder located in a game directory
+- make sure "enable autoload folder" checkbox is enabled
 
 
 ============================================================================================
@@ -27,10 +29,10 @@ LINKS
 ============================================================================================
 
 > BuildGDX port:
-  https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
-  
+   https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
+
 > PCExhumed dev builds:
-  https://lerppu.net/wannabethesis/pcexhumed/latest/
+   https://lerppu.net/wannabethesis/pcexhumed/latest/
 
 
 ============================================================================================
@@ -40,10 +42,10 @@ CREDITS
 Main Development:
 
 > Voxel creation
-  FGSFDS (https://twitter.com/fgsfds228)
+   fgsfds (https://twitter.com/fgsfds228)
 
 > All voxels based on work by 
-  Lobotomy Software
+   Lobotomy Software
 
 
 ============================================================================================
