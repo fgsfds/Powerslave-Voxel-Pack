@@ -19,7 +19,7 @@ It is meant to be used with BuildGDX and PCExhumed ports.
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.09 or later) and NBlood (r11419 or later):
+BuildGDX (1.13 or later) and PCExhumed:
 - put psvoxels.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
@@ -33,6 +33,9 @@ LINKS
 
 > PCExhumed dev builds:
    https://lerppu.net/wannabethesis/pcexhumed/latest/
+
+> GitHub repo:
+   https://github.com/fgsfds/Powerslave-Voxel-Pack
 
 
 ============================================================================================
@@ -71,3 +74,4 @@ Version 0.1 (00.00.00)
 + Scarab (0736)
 + Health Plant (0718-0719)
 + Map (0982)
++ Flamethrower Ammo (0879)
