@@ -1,31 +1,31 @@
 //Animated
 
-voxel "KVX/0326_HEALTH_A.kvx" { tile 326 rotate }
-voxel "KVX/0327_HEALTH_B.kvx" { tile 327 rotate }
-voxel "KVX/0328_HEALTH_C.kvx" { tile 328 rotate }
-voxel "KVX/0329_HEALTH_D.kvx" { tile 329 rotate }
-voxel "KVX/0330_HEALTH_E.kvx" { tile 330 rotate }
-voxel "KVX/0331_HEALTH_F.kvx" { tile 331 rotate }
+voxel "KVX/0326_HEALTH_A.kvx" { tile 326 }
+voxel "KVX/0327_HEALTH_B.kvx" { tile 327 }
+voxel "KVX/0328_HEALTH_C.kvx" { tile 328 }
+voxel "KVX/0329_HEALTH_D.kvx" { tile 329 }
+voxel "KVX/0330_HEALTH_E.kvx" { tile 330 }
+voxel "KVX/0331_HEALTH_F.kvx" { tile 331 }
 
-voxel "KVX/0332_POISON_A.kvx" { tile 332 rotate }
-voxel "KVX/0333_POISON_B.kvx" { tile 333 rotate }
-voxel "KVX/0334_POISON_C.kvx" { tile 334 rotate }
-voxel "KVX/0335_POISON_D.kvx" { tile 335 rotate }
-voxel "KVX/0336_POISON_E.kvx" { tile 336 rotate }
-voxel "KVX/0337_POISON_F.kvx" { tile 337 rotate }
+voxel "KVX/0332_POISON_A.kvx" { tile 332 }
+voxel "KVX/0333_POISON_B.kvx" { tile 333 }
+voxel "KVX/0334_POISON_C.kvx" { tile 334 }
+voxel "KVX/0335_POISON_D.kvx" { tile 335 }
+voxel "KVX/0336_POISON_E.kvx" { tile 336 }
+voxel "KVX/0337_POISON_F.kvx" { tile 337 }
 
-voxel "KVX/0726_EYE_A.kvx" { tile 0726 rotate }
-voxel "KVX/0732_EYE_B.kvx" { tile 0732 rotate }
-voxel "KVX/0733_EYE_C.kvx" { tile 0733 rotate }
-voxel "KVX/0734_EYE_D.kvx" { tile 0734 rotate }
-voxel "KVX/0735_EYE_E.kvx" { tile 0735 rotate }
+voxel "KVX/0726_EYE_A.kvx" { tile 0726 }
+voxel "KVX/0732_EYE_B.kvx" { tile 0732 }
+voxel "KVX/0733_EYE_C.kvx" { tile 0733 }
+voxel "KVX/0734_EYE_D.kvx" { tile 0734 }
+voxel "KVX/0735_EYE_E.kvx" { tile 0735 }
 
-voxel "KVX/3502_MANA_A.kvx" { tile 3502 rotate }
-voxel "KVX/3503_MANA_B.kvx" { tile 3503 rotate }
-voxel "KVX/3504_MANA_C.kvx" { tile 3504 rotate }
-voxel "KVX/3505_MANA_D.kvx" { tile 3505 rotate }
-voxel "KVX/3506_MANA_E.kvx" { tile 3506 rotate }
-voxel "KVX/3507_MANA_F.kvx" { tile 3507 rotate }
+voxel "KVX/3502_MANA_A.kvx" { tile 3502 }
+voxel "KVX/3503_MANA_B.kvx" { tile 3503 }
+voxel "KVX/3504_MANA_C.kvx" { tile 3504 }
+voxel "KVX/3505_MANA_D.kvx" { tile 3505 }
+voxel "KVX/3506_MANA_E.kvx" { tile 3506 }
+voxel "KVX/3507_MANA_F.kvx" { tile 3507 }
 
 voxel "KVX/0488_REVOLVER.kvx" { tile 0488 rotate }
 voxel "KVX/0490_MG.kvx" { tile 0490 rotate }
@@ -42,22 +42,22 @@ voxel "KVX/0901_STAFF_C.kvx" { tile 0901 rotate }
 voxel "KVX/3455_BRACELET.kvx" { tile 3455 rotate }
 voxel "KVX/3457_COBRA.kvx" { tile 3457 rotate }
 
-voxel "KVX/0744_TORCH_A.kvx" { tile 0744 rotate }
-voxel "KVX/0745_TORCH_B.kvx" { tile 0745 rotate }
-voxel "KVX/0746_TORCH_C.kvx" { tile 0746 rotate }
-voxel "KVX/0747_TORCH_D.kvx" { tile 0747 rotate }
-voxel "KVX/0748_TORCH_E.kvx" { tile 0748 rotate }
-voxel "KVX/0749_TORCH_F.kvx" { tile 0749 rotate }
-voxel "KVX/0750_TORCH_G.kvx" { tile 0750 rotate }
-voxel "KVX/0751_TORCH_H.kvx" { tile 0751 rotate }
+voxel "KVX/0744_TORCH_A.kvx" { tile 0744 }
+voxel "KVX/0745_TORCH_B.kvx" { tile 0745 }
+voxel "KVX/0746_TORCH_C.kvx" { tile 0746 }
+voxel "KVX/0747_TORCH_D.kvx" { tile 0747 }
+voxel "KVX/0748_TORCH_E.kvx" { tile 0748 }
+voxel "KVX/0749_TORCH_F.kvx" { tile 0749 }
+voxel "KVX/0750_TORCH_G.kvx" { tile 0750 }
+voxel "KVX/0751_TORCH_H.kvx" { tile 0751 }
 
 voxel "KVX/0736_SCARAB_A.kvx" { tile 0736 rotate }
 
-voxel "KVX/3516_EYE.kvx" { tile 3516 rotate }
-voxel "KVX/3516_EYE.kvx" { tile 3517 rotate }
-voxel "KVX/3516_EYE.kvx" { tile 3518 rotate }
-voxel "KVX/3516_EYE.kvx" { tile 3519 rotate }
-voxel "KVX/3516_EYE.kvx" { tile 3520 rotate }
+voxel "KVX/3516_EYE.kvx" { tile 3516 }
+voxel "KVX/3516_EYE.kvx" { tile 3517 }
+voxel "KVX/3516_EYE.kvx" { tile 3518 }
+voxel "KVX/3516_EYE.kvx" { tile 3519 }
+voxel "KVX/3516_EYE.kvx" { tile 3520 }
 
 voxel "KVX/0718_PLANT_A.kvx" { tile 0718 }
 voxel "KVX/0719_PLANT_B.kvx" { tile 0719 }
