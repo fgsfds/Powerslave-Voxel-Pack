@@ -19,7 +19,7 @@ It is meant to be used with BuildGDX and PCExhumed ports.
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.13 or later) and PCExhumed:
+BuildGDX (1.13 or later) and PCExhumed (r11753 or later):
 - put psvoxels.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
