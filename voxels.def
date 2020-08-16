@@ -63,3 +63,7 @@ voxel "KVX/0718_PLANT_A.kvx" { tile 0718 }
 voxel "KVX/0719_PLANT_B.kvx" { tile 0719 }
 
 voxel "KVX/0982_MAP.kvx" { tile 0982 rotate }
+
+//Props
+
+voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
