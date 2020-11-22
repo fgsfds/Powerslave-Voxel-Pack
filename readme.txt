@@ -46,6 +46,7 @@ Main Development:
 
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
+   Dzierzan (https://twitter.com/Dzierzan23)
 
 > All voxels based on work by 
    Lobotomy Software
@@ -64,7 +65,7 @@ Version 0.1 (00.00.00)
 + Revolver (0488)
 + Machine Gun (0490)
 + Flamethrower (0491)
-+ Grenade (0878)
++ Grenade (0878, 3602)
 + Bracelet (3455)
 + Cobra Staff (0899-0901)
 + Torch (0744-0751)
@@ -75,3 +76,5 @@ Version 0.1 (00.00.00)
 + Health Plant (0718-0719)
 + Map (0982)
 + Flamethrower Ammo (0879)
++ Bricks (0161-0163)
++ Rocks (0160, 0164, 0165)
