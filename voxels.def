@@ -66,4 +66,10 @@ voxel "KVX/0982_MAP.kvx" { tile 0982 rotate }
 
 //Props
 
+voxel "KVX/0160_ROCKS.kvx" { tile 0160 } // Dzierzan
+voxel "KVX/0161_BRICK.kvx" { tile 0161 } // Dzierzan
+voxel "KVX/0162_BRICK.kvx" { tile 0162 } // Dzierzan
+voxel "KVX/0163_BRICK.kvx" { tile 0163 } // Dzierzan
+voxel "KVX/0164_ROCK.kvx" { tile 0164 } // Dzierzan
+voxel "KVX/0165_ROCK.kvx" { tile 0165 } // Dzierzan
 voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
