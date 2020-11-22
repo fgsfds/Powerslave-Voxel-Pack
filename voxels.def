@@ -67,3 +67,4 @@ voxel "KVX/0982_MAP.kvx" { tile 0982 rotate }
 //Props
 
 voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
+voxel "KVX/3602_GRENADE.kvx" { tile 3602 } // Dzierzan
