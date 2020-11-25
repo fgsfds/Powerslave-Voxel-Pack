@@ -59,6 +59,7 @@ CHANGELOG
 Version 0.1 (00.00.00)
 ---------------------------
 > First version
+fgsfds:
 + Health Pickup (326-331)
 + Poison Pickup (332-337)
 + Mana Pickup (3502-3507)
@@ -76,8 +77,9 @@ Version 0.1 (00.00.00)
 + Health Plant (0718-0719)
 + Map (0982)
 + Flamethrower Ammo (0879)
+Dzierzan:
 + Bricks (0161-0163)
 + Rocks (0160, 0164, 0165)
-+ Vases (0484, 0532, 0533)
++ Vases (0484, 0529, 0532, 0533)
 + Pillar (0528)
 + Sword (0535)
