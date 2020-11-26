@@ -79,5 +79,8 @@ voxel "KVX/0529_VASE.kvx" { tile 0529 } // Dzierzan
 voxel "KVX/0532_VASE.kvx" { tile 0532 } // Dzierzan
 voxel "KVX/0533_VASE.kvx" { tile 0533 } // Dzierzan
 voxel "KVX/0535_SWORD.kvx" { tile 0535 } // Dzierzan
+voxel "KVX/0807_WEB.kvx" { tile 0807 } // Dzierzan
+voxel "KVX/0808_WEB.kvx" { tile 0808 } // Dzierzan
+voxel "KVX/0810_WEB.kvx" { tile 0810 } // Dzierzan
 voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
 voxel "KVX/3602_GRENADE.kvx" { tile 3602 } // Dzierzan
