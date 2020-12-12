@@ -80,6 +80,7 @@ fgsfds:
 Dzierzan:
 + Bricks (0161-0163)
 + Rocks (0160, 0164, 0165)
++ Wood with rope (0354)
 + Vases (0484, 0513, 0514, 0529, 0532, 0533)
 + Pillar (0528)
 + Sword (0535)
