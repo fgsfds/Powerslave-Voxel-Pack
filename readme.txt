@@ -85,5 +85,5 @@ Dzierzan:
 + Pillar (0528)
 + Sword (0535)
 + Web (0807, 0808, 0810)
-+ Bars (1212)
++ Bars (0142-0144, 1212)
 + Arrow (1287)
