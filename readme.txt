@@ -88,3 +88,4 @@ Dzierzan:
 + Bars (0142-0144, 1212)
 + Arrow (1287)
 + Flowerpot (0355)
++ Pile of gold (0534)
