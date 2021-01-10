@@ -93,5 +93,6 @@ voxel "KVX/0807_WEB.kvx" { tile 0807 } // Dzierzan
 voxel "KVX/0808_WEB.kvx" { tile 0808 } // Dzierzan
 voxel "KVX/0810_WEB.kvx" { tile 0810 } // Dzierzan
 voxel "KVX/1212_BARS.kvx" { tile 1212 } // Dzierzan
+voxel "KVX/1250_VASE.kvx" { tile 1250 } // Dzierzan
 voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
 voxel "KVX/3602_GRENADE.kvx" { tile 3602 } // Dzierzan
