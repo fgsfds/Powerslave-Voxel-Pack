@@ -80,6 +80,7 @@ voxel "KVX/0355_FLOWERPOT.kvx" { tile 0355 } // Dzierzan
 voxel "KVX/0484_VASE.kvx" { tile 0484 } // Dzierzan
 voxel "KVX/0513_VASE.kvx" { tile 0513 } // Dzierzan
 voxel "KVX/0514_VASE.kvx" { tile 0514 } // Dzierzan
+voxel "KVX/0515_VASE.kvx" { tile 0515 } // Dzierzan
 voxel "KVX/0528_PILLAR.kvx" { tile 0528 } // Dzierzan
 voxel "KVX/0529_VASE.kvx" { tile 0529 } // Dzierzan
 voxel "KVX/0531_VASE.kvx" { tile 0531 } // Dzierzan
