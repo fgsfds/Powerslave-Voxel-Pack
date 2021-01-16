@@ -79,6 +79,7 @@ voxel "KVX/0165_ROCK.kvx" { tile 0165 } // Dzierzan
 voxel "KVX/0354_WOOD_WITH_ROPE.kvx" { tile 0354 } // Dzierzan
 voxel "KVX/0355_FLOWERPOT.kvx" { tile 0355 } // Dzierzan
 voxel "KVX/0484_VASE.kvx" { tile 0484 } // Dzierzan
+voxel "KVX/0511_CHAIN.kvx" { tile 0511 } // Dzierzan
 voxel "KVX/0513_VASE.kvx" { tile 0513 } // Dzierzan
 voxel "KVX/0514_VASE.kvx" { tile 0514 } // Dzierzan
 voxel "KVX/0515_VASE.kvx" { tile 0515 } // Dzierzan

@@ -90,4 +90,4 @@ Dzierzan:
 + Flowerpot (0355)
 + Pile of gold (0534)
 + Drums (2060)
-+ Chains (0011, 0639, 0642, 1112-1115)
++ Chains (0011, 0511, 0639, 0642, 1112-1115)
