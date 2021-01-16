@@ -66,6 +66,7 @@ voxel "KVX/0982_MAP.kvx" { tile 0982 rotate }
 
 //Props
 
+voxel "KVX/0011_CHAIN.kvx" { tile 0011 } // Dzierzan
 voxel "KVX/0142_BARS.kvx" { tile 0142 } // Dzierzan
 voxel "KVX/0143_BARS.kvx" { tile 0143 } // Dzierzan
 voxel "KVX/0144_TEXTURE.kvx" { tile 0144 } // Dzierzan
@@ -89,9 +90,15 @@ voxel "KVX/0532_VASE.kvx" { tile 0532 } // Dzierzan
 voxel "KVX/0533_VASE.kvx" { tile 0533 } // Dzierzan
 voxel "KVX/0534_GOLD.kvx" { tile 0534 } // Dzierzan
 voxel "KVX/0535_SWORD.kvx" { tile 0535 } // Dzierzan
+voxel "KVX/0639_BLOODY_HOOKCHAIN.kvx" { tile 0639 } // Dzierzan
+voxel "KVX/0642_HOOKCHAIN_WITH_GUTS.kvx" { tile 0642 } // Dzierzan
 voxel "KVX/0807_WEB.kvx" { tile 0807 } // Dzierzan
 voxel "KVX/0808_WEB.kvx" { tile 0808 } // Dzierzan
 voxel "KVX/0810_WEB.kvx" { tile 0810 } // Dzierzan
+voxel "KVX/1112_HOOKCHAIN_1.kvx" { tile 1112 } // Dzierzan
+voxel "KVX/1113_HOOKCHAIN_2.kvx" { tile 1113 } // Dzierzan
+voxel "KVX/1114_HOOKCHAIN_3.kvx" { tile 1114 } // Dzierzan
+voxel "KVX/1115_HOOKCHAIN_4.kvx" { tile 1115 } // Dzierzan
 voxel "KVX/1212_BARS.kvx" { tile 1212 } // Dzierzan
 voxel "KVX/1250_VASE.kvx" { tile 1250 } // Dzierzan
 voxel "KVX/1287_ARROW.kvx" { tile0 1287 tile1 1289 } // Dzierzan
