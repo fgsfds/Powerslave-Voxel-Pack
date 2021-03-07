@@ -30,6 +30,7 @@ voxel "KVX/3507_MANA_F.kvx" { tile 3507 }
 voxel "KVX/0488_REVOLVER.kvx" { tile 0488 rotate }
 voxel "KVX/0490_MG.kvx" { tile 0490 rotate }
 voxel "KVX/0491_FLAMETHRWR.kvx" { tile 0491 rotate }
+voxel "KVX/0752_HAND.kvx" { tile 0752 rotate }
 voxel "KVX/0754_MASK.kvx" { tile 0754 rotate }
 voxel "KVX/0877_SPEEDLOADER.kvx" { tile 0877 rotate }
 voxel "KVX/0878_GRENADE.kvx" { tile 0878 rotate }
