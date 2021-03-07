@@ -1,1 +1,0 @@
-start 7za a -m0=Copy -tzip psvoxels.zip KVX/ *.def *txt

@@ -2,9 +2,8 @@
 Powerslave/Exhumed Voxel Pack
 ============================================================================================
 
-Version:       0.1
-Release Date:  00.00.0000
-Author:        Oleg "fgsfds" G.
+Version:       0.1 WIP
+Release Date:  TBA
 
 
 ============================================================================================
@@ -42,8 +41,6 @@ LINKS
 CREDITS
 ============================================================================================
 
-Main Development:
-
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
    Dzierzan (https://twitter.com/Dzierzan23)
@@ -56,7 +53,7 @@ Main Development:
 CHANGELOG
 ============================================================================================
 
-Version 0.1 (00.00.00)
+Version 0.1 (WIP)
 ---------------------------
 > First version
 fgsfds:
