@@ -14,11 +14,11 @@ voxel "KVX/0335_POISON_D.kvx" { tile 335 }
 voxel "KVX/0336_POISON_E.kvx" { tile 336 }
 voxel "KVX/0337_POISON_F.kvx" { tile 337 }
 
-voxel "KVX/0726_EYE_A.kvx" { tile 0726 }
-voxel "KVX/0732_EYE_B.kvx" { tile 0732 }
-voxel "KVX/0733_EYE_C.kvx" { tile 0733 }
-voxel "KVX/0734_EYE_D.kvx" { tile 0734 }
-voxel "KVX/0735_EYE_E.kvx" { tile 0735 }
+voxel "KVX/0726_EYE_A.kvx" { tile 0726 rotate }
+voxel "KVX/0732_EYE_B.kvx" { tile 0732 rotate }
+voxel "KVX/0733_EYE_C.kvx" { tile 0733 rotate }
+voxel "KVX/0734_EYE_D.kvx" { tile 0734 rotate }
+voxel "KVX/0735_EYE_E.kvx" { tile 0735 rotate }
 
 voxel "KVX/3502_MANA_A.kvx" { tile 3502 }
 voxel "KVX/3503_MANA_B.kvx" { tile 3503 }
@@ -30,7 +30,7 @@ voxel "KVX/3507_MANA_F.kvx" { tile 3507 }
 voxel "KVX/0488_REVOLVER.kvx" { tile 0488 rotate }
 voxel "KVX/0490_MG.kvx" { tile 0490 rotate }
 voxel "KVX/0491_FLAMETHRWR.kvx" { tile 0491 rotate }
-voxel "KVX/0752_HAND.kvx" { tile 0752 rotate }
+voxel "KVX/0752_HAND.kvx" { tile 0752 rotate } // Dzierzan
 voxel "KVX/0754_MASK.kvx" { tile 0754 rotate }
 voxel "KVX/0877_SPEEDLOADER.kvx" { tile 0877 rotate }
 voxel "KVX/0878_GRENADE.kvx" { tile 0878 rotate }
