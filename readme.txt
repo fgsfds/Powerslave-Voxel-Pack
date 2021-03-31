@@ -89,3 +89,4 @@ Dzierzan:
 + Drums (2060)
 + Chains (0011, 0511, 0639, 0642, 1112-1115)
 + Hand Pickup (0752)
++ Lions with vase (0486)
