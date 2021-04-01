@@ -82,6 +82,10 @@ voxel "KVX/0162_BRICK.kvx" { tile 0162 } // Dzierzan
 voxel "KVX/0163_BRICK.kvx" { tile 0163 } // Dzierzan
 voxel "KVX/0164_ROCK.kvx" { tile 0164 } // Dzierzan
 voxel "KVX/0165_ROCK.kvx" { tile 0165 } // Dzierzan
+voxel "KVX/0338_TORCH_PROP_A.kvx" { tile 0338 } // Dzierzan
+voxel "KVX/0339_TORCH_PROP_B.kvx" { tile 0339 } // Dzierzan
+voxel "KVX/0340_TORCH_PROP_C.kvx" { tile 0340 } // Dzierzan
+voxel "KVX/0341_TORCH_PROP_D.kvx" { tile 0341 } // Dzierzan
 voxel "KVX/0354_WOOD_WITH_ROPE.kvx" { tile 0354 } // Dzierzan
 voxel "KVX/0355_FLOWERPOT.kvx" { tile 0355 } // Dzierzan
 voxel "KVX/0484_VASE.kvx" { tile 0484 } // Dzierzan
