@@ -91,3 +91,4 @@ Dzierzan:
 + Hand Pickup (0752)
 + Lions with vase (0486)
 + Heart Pickup (0771-0774)
++ Eye ammo pickup (3516-3520) based on fgsfds' voxel

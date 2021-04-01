@@ -59,11 +59,11 @@ voxel "KVX/0751_TORCH_H.kvx" { tile 0751 }
 
 voxel "KVX/0736_SCARAB_A.kvx" { tile 0736 rotate }
 
-voxel "KVX/3516_EYE.kvx" { tile 3516 }
-voxel "KVX/3516_EYE.kvx" { tile 3517 }
-voxel "KVX/3516_EYE.kvx" { tile 3518 }
-voxel "KVX/3516_EYE.kvx" { tile 3519 }
-voxel "KVX/3516_EYE.kvx" { tile 3520 }
+voxel "KVX/3516_EYE_AMMO_A.kvx" { tile 3516 } // Dzierzan
+voxel "KVX/3517_EYE_AMMO_B.kvx" { tile 3517 } // Dzierzan
+voxel "KVX/3518_EYE_AMMO_C.kvx" { tile 3518 } // fgsfds & Dzierzan
+voxel "KVX/3519_EYE_AMMO_D.kvx" { tile 3519 } // Dzierzan
+voxel "KVX/3520_EYE_AMMO_E.kvx" { tile 3520 } // Dzierzan
 
 voxel "KVX/0718_PLANT_A.kvx" { tile 0718 }
 voxel "KVX/0719_PLANT_B.kvx" { tile 0719 }
