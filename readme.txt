@@ -93,3 +93,5 @@ Dzierzan:
 + Heart Pickup (0771-0774)
 + Eye ammo pickup (3516-3520) based on fgsfds' voxel
 + Torch prop (0338-0341)
++ Palm Tree (0540) [It's commented out, as BuildGDX doesn't support such complicated models yet]
+
