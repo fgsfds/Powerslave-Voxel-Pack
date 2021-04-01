@@ -14,11 +14,11 @@ voxel "KVX/0335_POISON_D.kvx" { tile 335 }
 voxel "KVX/0336_POISON_E.kvx" { tile 336 }
 voxel "KVX/0337_POISON_F.kvx" { tile 337 }
 
-voxel "KVX/0726_EYE_A.kvx" { tile 0726 rotate }
-voxel "KVX/0732_EYE_B.kvx" { tile 0732 rotate }
-voxel "KVX/0733_EYE_C.kvx" { tile 0733 rotate }
-voxel "KVX/0734_EYE_D.kvx" { tile 0734 rotate }
-voxel "KVX/0735_EYE_E.kvx" { tile 0735 rotate }
+voxel "KVX/0726_EYE_A.kvx" { tile 0726 }
+voxel "KVX/0732_EYE_B.kvx" { tile 0732 }
+voxel "KVX/0733_EYE_C.kvx" { tile 0733 }
+voxel "KVX/0734_EYE_D.kvx" { tile 0734 }
+voxel "KVX/0735_EYE_E.kvx" { tile 0735 }
 
 voxel "KVX/0771_HEART_A.kvx" { tile 0771 rotate } // Dzierzan
 voxel "KVX/0772_HEART_B.kvx" { tile 0772 rotate } // Dzierzan
