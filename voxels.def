@@ -20,6 +20,11 @@ voxel "KVX/0733_EYE_C.kvx" { tile 0733 rotate }
 voxel "KVX/0734_EYE_D.kvx" { tile 0734 rotate }
 voxel "KVX/0735_EYE_E.kvx" { tile 0735 rotate }
 
+voxel "KVX/0771_HEART_A.kvx" { tile 0771 rotate } // Dzierzan
+voxel "KVX/0772_HEART_B.kvx" { tile 0772 rotate } // Dzierzan
+voxel "KVX/0773_HEART_C.kvx" { tile 0773 rotate } // Dzierzan
+voxel "KVX/0774_HEART_D.kvx" { tile 0774 rotate } // Dzierzan
+
 voxel "KVX/3502_MANA_A.kvx" { tile 3502 }
 voxel "KVX/3503_MANA_B.kvx" { tile 3503 }
 voxel "KVX/3504_MANA_C.kvx" { tile 3504 }
